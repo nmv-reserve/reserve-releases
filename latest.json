@@ -1,0 +1,11 @@
+{
+  "version": "3.0.5",
+  "notes": "Reserve v3.0.5 - local data encryption at rest, backup/restore reliability improvements, Reset Financial Year fix, suspended-company settings lock, clearer license revocation messaging.",
+  "pub_date": "2026-08-05T10:47:37Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZTVVRaSWVGWlJRemRNZVRNd2VGaFBZVkVyYkRKWlVIWTVLMEZHYlZOU1FtbGFWMnBzVFZkT0swUmhiM1pqUjBWbU4zRjNZVTFpUVU1M05XVk1MM1ZQVEVwM1ZsUk9jVzV5ZW5CQ09YRkZkemxzVG1sSVEwUTFOSFU0WkhweFFYZEpQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpnMU9USTJPRFUzQ1dacGJHVTZVbVZ6WlhKMlpTQkdhVzVoYm1OcFlXd2dVM1ZwZEdVZ2RqTXVNRjh6TGpBdU5WOTROalF0YzJWMGRYQXVaWGhsQ2xWaU5EWjFSRTlxTkZkMFJGZzNjazlxTUVWdldFRm5XR1I0ZUN0elFuQlBiV2dySzNsb1dUY3hOVEJOT1dkdFUzbDRkRFpUV1V0dWFUTlRVbnBJWkVsTE56YzBWa0o1YTI5TlNUWTVlVXRoUWxOTFZFTm5QVDBL",
+      "url": "https://github.com/nmv-reserve/reserve-releases/releases/download/v3.0.5/Reserve.Financial.Suite.v3.0_3.0.5_x64-setup.exe"
+    }
+  }
+}
