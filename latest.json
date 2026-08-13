@@ -1,11 +1,11 @@
 {
-  "version": "3.0.5",
-  "notes": "Reserve v3.0.5 - local data encryption at rest, backup/restore reliability improvements, Reset Financial Year fix, suspended-company settings lock, clearer license revocation messaging.",
-  "pub_date": "2026-08-05T10:47:37Z",
+  "version": "3.0.10",
+  "notes": "Reserve v3.0.10 - fixes a UI freeze on license/backup checks, adds WhatsApp document sharing (now available from the create screen too), more secure and reliable automatic backups, single-instance launch guard, phone number validation, and automatic plan/renewal refresh. Also includes everything since v3.0.5.",
+  "pub_date": "2026-08-13T13:01:12Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZTVVRaSWVGWlJRemRNZVRNd2VGaFBZVkVyYkRKWlVIWTVLMEZHYlZOU1FtbGFWMnBzVFZkT0swUmhiM1pqUjBWbU4zRjNZVTFpUVU1M05XVk1MM1ZQVEVwM1ZsUk9jVzV5ZW5CQ09YRkZkemxzVG1sSVEwUTFOSFU0WkhweFFYZEpQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpnMU9USTJPRFUzQ1dacGJHVTZVbVZ6WlhKMlpTQkdhVzVoYm1OcFlXd2dVM1ZwZEdVZ2RqTXVNRjh6TGpBdU5WOTROalF0YzJWMGRYQXVaWGhsQ2xWaU5EWjFSRTlxTkZkMFJGZzNjazlxTUVWdldFRm5XR1I0ZUN0elFuQlBiV2dySzNsb1dUY3hOVEJOT1dkdFUzbDRkRFpUV1V0dWFUTlRVbnBJWkVsTE56YzBWa0o1YTI5TlNUWTVlVXRoUWxOTFZFTm5QVDBL",
-      "url": "https://github.com/nmv-reserve/reserve-releases/releases/download/v3.0.5/Reserve.Financial.Suite.v3.0_3.0.5_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUTZIeFZRQzdMeTE2eVlzODBocU9QSVNvcnFsL0VJakV0eERQMHhYZi9pSjhobG5Na1dpWWYxYUJ4UzNxeUVxN2pkRTdYT3V3eVBUaTh6M3VvZUFpZlAxTFZNSGtHZGd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NjI0MTg2CWZpbGU6UmVzZXJ2ZSBGaW5hbmNpYWwgU3VpdGVfMy4wLjEwX3g2NC1zZXR1cC5leGUKQlZXU3YwcnNiMjVZNmdnL0Y0WUlEckY1anVtckFrK1JsRUhQaXc5ZEZObkprVHMzbWxKM3R0K2h0MW5ZTUN4YVBPM054eFpvQTJzSnJnZGRpYTllRFE9PQo=",
+      "url": "https://github.com/nmv-reserve/reserve-releases/releases/download/v3.0.10/Reserve.Financial.Suite_3.0.10_x64-setup.exe"
     }
   }
 }
