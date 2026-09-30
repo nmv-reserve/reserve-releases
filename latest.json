@@ -1,11 +1,11 @@
 {
-  "version": "3.1.2",
-  "notes": "Reserve v3.1.2 - the Aurora Glass visual redesign across the whole app, a broad set of post-redesign polish fixes (dialog transparency, button rims, dropdown blur, KPI sparklines, launch flash), and a fix for background gradient banding on panels, the sidebar/topbar, and the splash screen. Also includes everything since v3.0.10 (UI freeze fix, WhatsApp document sharing from create forms, more secure automatic backups, single-instance launch guard, phone validation, automatic plan/renewal refresh).",
-  "pub_date": "2026-08-15T05:37:18Z",
-  "platforms": {
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUTZIeFZRQzdMeTB4WTZPNU9WdFoycUJ6bS9TbzRFUHFlNC8xcVg1Mkw4VWxTSWNZTkliRUd5emk0T2YyYkJXZ3dPY0lGY0E5a1UyZ2Q5aDJaaU00RlRzeUNWTnpISmdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NzcxMjk2CWZpbGU6UmVzZXJ2ZSBGaW5hbmNpYWwgU3VpdGVfMy4xLjJfeDY0LXNldHVwLmV4ZQpSY3hsNUc0K2Y0bHJyeXpMNzRySHdkbnFhdFlOVzZSZ3JIT2p0YXR6V0ZpUEp0MEtzQU1zcnFzejlXYWtHUlorblZOUjVJc3JQdTdxejZiTkdYWlNEZz09Cg==",
-      "url": "https://github.com/nmv-reserve/reserve-releases/releases/download/v3.1.2/Reserve.Financial.Suite_3.1.2_x64-setup.exe"
-    }
-  }
+    "version":  "3.1.3",
+    "notes":  "Reserve v3.1.3 - a new premium launch splash and smoother visuals across the app. Sign-in now persists across restarts, and offline launch is faster. Adds a Payables trend chart on the Dashboard, more reliable backup and restore, notifications for all users, and automatic cloud-restore retries when you\u0027re offline at launch. Redesigned buttons and dialogs throughout.",
+    "pub_date":  "2026-09-30T06:19:13Z",
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUTZIeFZRQzdMeTFOOTdIR1E4ZEJDN2ZzU0lHMDY2SDdXUFltVzhJQVZIL3pLdU5RL2VFRTY1SnJiU3haSEJIYkRuNmFteGN4Zkp6TVE2RTBPWldpWXA1Y00vU3JqRXdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNzQ3ODc5CWZpbGU6UmVzZXJ2ZSBGaW5hbmNpYWwgU3VpdGVfMy4xLjNfeDY0LXNldHVwLmV4ZQpNYnRia3NVZks3R0NDcFdKZ0RFL0YxbnhZWnNRYlBBb0FDanpVQzNVL3NRcHcyYlhFaURjbk15L25YODFiTWF4RTMremNsaUlDakpSOXNNbmNSTGRDQT09Cg==",
+                                             "url":  "https://github.com/nmv-reserve/reserve-releases/releases/download/v3.1.3/Reserve.Financial.Suite_3.1.3_x64-setup.exe"
+                                         }
+                  }
 }
